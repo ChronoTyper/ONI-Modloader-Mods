@@ -51,6 +51,11 @@ Mods Installation
    * MacOS: ~/Library/Logs/Unity/**Player.log**
    * \OxygenNotIncluded\Mods\Mod_Log.txt
    * \OxygenNotIncluded\Mods\\_Logs\
+   
+Howto Debug
+--------------------
+* https://github.com/0xd4d/dnSpy/wiki/Debugging-Unity-Games
+* https://gist.github.com/jbevain/ba23149da8369e4a966f
 
 
 ONI-Common
